@@ -1,5 +1,15 @@
 # Penetration Testing Tool
+COMPANY NAME: CODTECH IT SOLUTIONS
 
+*NAME": ANBUSELVAN ABISHEIKH R
+
+INTERN ID: CT04DH2590
+
+DOMAIN:CYBER SECURITY AND ETHICAL HACKING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
 This is a basic Python-based penetration testing tool developed as part of a cybersecurity internship task.
 
 ## Features
